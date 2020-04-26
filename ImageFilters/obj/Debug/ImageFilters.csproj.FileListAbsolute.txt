@@ -1,0 +1,56 @@
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\Nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\MoreLinq.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\MoreLinq.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csprojAssemblyReference.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.dll.config
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.xml
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.dll.config
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe.config
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\ImageFilters.pdb
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.dll
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.dll
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.dll
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.dll
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.dll
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\MoreLinq.dll
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.xml
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.xml
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.xml
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.xml
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.xml
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\bin\Debug\MoreLinq.xml
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.exe
+D:\Maxim\videos\Computer_graphics-master\Computer_graphics-master\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.pdb
